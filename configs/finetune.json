@@ -21,7 +21,7 @@
 
   "tpu_size":8,
 
-  "bucket": "gpt-j-6b-finetune",
+  "bucket": "gpt-j-6b-checkpoints",
   "model_dir": "finetune",
 
   "train_set": "finetune.train.index",
