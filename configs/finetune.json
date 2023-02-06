@@ -26,7 +26,7 @@
 
   "train_set": "finetune.train.index",
   "val_set": {
-    "finetune_val": "finetune.val.index",
+    "finetune_val": "finetune.val.index"
   },
 
   "eval_harness_tasks": [
