@@ -26,8 +26,7 @@
 
   "train_set": "finetune.train.index",
   "val_set": {
-    "pile": "finetune.val.index",
-    "owt": "openwebtext2_new_inputs.val.index"
+    "finetune_val": "finetune.val.index",
   },
 
   "eval_harness_tasks": [
