@@ -22,7 +22,7 @@
   "tpu_size":8,
 
   "bucket": "gpt-j-6b-finetune",
-  "model_dir": "waymo-finetune",
+  "model_dir": "finetune",
 
   "train_set": "finetune.train.index",
   "val_set": {
