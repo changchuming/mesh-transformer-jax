@@ -13,7 +13,7 @@ google-cloud-storage>=2.7.0
 jax[tpu]==0.2.12
 jaxlib[tpu]==0.1.67
 lm-dataformat~=0.0.20
-numpy==1.18.5
+numpy==1.19.2
 optax==0.0.9
 pathy~=0.10.1
 protobuf==3.20.0
