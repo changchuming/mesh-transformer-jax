@@ -21,8 +21,8 @@ ray[default]~=1.4.1
 requests~=2.25.1
 smart_open[gcs]~=6.3.0
 streamlit~=0.84.0
-tensorflow-cpu==2.3.0
-tensorflow==2.3.0
+tensorflow-cpu==2.6.0
+tensorflow==2.6.0
 tqdm>=4.64.1
 transformers~=4.26.1
 uvicorn~=0.20.0
